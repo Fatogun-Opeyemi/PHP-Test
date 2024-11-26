@@ -1,0 +1,9 @@
+1. UPDATE employees_table SET ethnicity='African' WHERE ethnicity = 'Black;
+
+2. DELETE FROM employees WHERE employees_id IN ('E02002', 'E02005', 'E02006', 'E02007');
+
+3.SELECT * FROM employees WHERE gender = 'Female' AND ethnicity = 'Asian';
+
+4.DELETE FROM employees WHERE age > 60;
+
+5.

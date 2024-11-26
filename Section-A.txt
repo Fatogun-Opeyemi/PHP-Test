@@ -1,0 +1,25 @@
+1. SQL means Structured Query Language
+
+2. SQL data types:
+    a.VARCHAR:It is used to store varying length strings or alphanumeric characters.
+    b.INT:It is used to store integer values. It may be a positive or negative whole value.
+    c.FLOAT: Is used to store floating numbers, which are numbers that are decimals.
+    D. DATE: It is used to store date values
+
+3.Aggregate functions:
+    a. COUNT(): It returns the number of rows that match a given condition 
+    b. SUM(): It returns the total sum of a numeric column for all the rows that meet a condition. It can be used to fetch useful information like total sales, etc 
+    c. AVG(): It returns the average of a numeric column for all rows that meet a condition. It is useful for determining the mean value of data. 
+    d.
+
+4. SQL command categories
+    I. Data Manipulation Language: Used to manipulate and manage data within existing structures.
+        a. INSERT
+        b. UPDATE
+
+    II. Data Definition Language : Used to define and manage database structures.
+        a. CREATE
+        b. DROP
+
+    III. Data Query Language: Used to query and retrieve data from the database
+        a. SELECT
